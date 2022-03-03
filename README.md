@@ -19,7 +19,7 @@ To use the DRipper type the following commands in Termux:
 
 `pkg install python3 -y`
 
-`git clone https://github.com/palahsu/DDoS-Ripper.git`
+`git clone https://github.com/Anonymous-Family/-DDoS-Ripper2015.git`
 
 `cd DDoS-Ripper`
 `$ ls`
@@ -35,14 +35,14 @@ To use the DRipper type the following commands in Termux:
 To use the application, type in the following commands in GNU/Linux terminal.
 
 `sudo apt install git`
-`git clone https://github.com/palahsu/DDoS-Ripper.git`
+`git clone https://github.com/Anonymous-Family/-DDoS-Ripper2015.git`
 `cd DDoS-Ripper`
 `$ ls`
 `$ python3 DRipper.py` OR `python2 DRipper.py`
 
 ## For Windows
 
-`git clone https://github.com/palahsu/DDoS-Ripper`
+`git clone https://github.com/Anonymous-Family/-DDoS-Ripper2015.git`
 
 `cd DDoS-Ripper`
 ` ls`
@@ -73,20 +73,12 @@ Thanks.
 
 ●🖥MAC
 
-# Modified by @palahsu
-
-For any kind of help, support, payment, suggetion and request ask me on Telegram:
-
-<a href="https://t.me/CyberClans"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
-
-Or Facebook <a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-
 ## Follow on:
 <p align="left">
-<a href="https://github.com/palahsu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/Anonymous-Family"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p><p align="left">
-<a href="https://www.facebook.com/aduri.knox01/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://www.facebook.com/kali14562/"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p><p align="left">
-<a href="https://t.me/AD0000000"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
+<a href="https://t.me/+cfFn8OTSF65jZDM0"><img src="https://img.shields.io/badge/Telegram-Contact%20Telegram%20Profile-blue.svg?logo=telegram"></a>
 </p><p align="left"> 
  
